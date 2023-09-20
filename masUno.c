@@ -1,10 +1,16 @@
+#include<stdio.h>
+#include<unistd.h>
 
 int main(){
-
+	
 	int laVar = 0;
-	laVar++;
 
-	return laVar; 
+	while(1){
+	laVar++;
+	printf("%d",laVar);
+	sleep(1);
+	}
+
 
 }
 
