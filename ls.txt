@@ -1,0 +1,8 @@
+total 32
+-rw-rw-r-- 1 ivancho ivancho    26 Nov 28 09:49 cuenta.c
+-rw-rw-r-- 1 ivancho ivancho     0 Nov 29 09:30 hola.txt
+-rwxrwxrwx 1 ivancho ivancho  1181 Nov 29 17:52 invertir.sh
+-rw-rw-r-- 1 ivancho ivancho     0 Nov 29 17:54 ls.txt
+-rwxrwxr-x 1 ivancho ivancho 16008 Nov 28 09:49 masUn
+-rwxrwxr-x 1 ivancho ivancho   130 Nov 28 09:49 masUno.c
+-rw-rw-r-- 1 ivancho ivancho     5 Nov 28 09:49 t.txt
